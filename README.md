@@ -1,8 +1,8 @@
-# Ex-01 Rotating-the-Gaming-Object
-
-## Aim:
+## Ex-01 Rotating-the-Gaming-Object
+### Date:20/3/2023
+### Aim:
 To develop a 3D application for rotating the gaming objects in unity.
-## Algorithm:
+### Algorithm:
 ### Step1:
 Start
 ### Start2:
@@ -36,7 +36,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 ### Start8:
 Stop
 
-## Program:
+### Program:
 ```
 Developed By: Silambarasan K
 Reg No:212221230101
@@ -63,7 +63,7 @@ public class Cube : MonoBehaviour
 }
 
 ```
-## Output:
+### Output:
 ![img](Ex1.png)
-## Result:
+### Result:
 Thus a 3D application for rotating the gaming objects in unity was developed.
